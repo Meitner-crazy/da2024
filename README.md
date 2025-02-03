@@ -1,4 +1,4 @@
-# da——2024
+# Data_agent_AIGC_platform_2024
 
 During my internship at the Peking University Institute for Computing and Digital Economy, I worked as a **Software Engineer Intern**, contributing to both front-end and back-end development.
 
